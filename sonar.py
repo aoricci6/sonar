@@ -1,3 +1,4 @@
+# el que mira aprende :D
 import random
 import time
 
