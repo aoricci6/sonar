@@ -1,6 +1,6 @@
 # Author: OMKAR PATHAK
 # This program prints the entered message
-#pepe11
+#pepe111
 def justPrint(text):
     '''This function prints the text passed as argument to this function'''
     print(text)
